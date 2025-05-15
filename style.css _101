@@ -1,0 +1,31 @@
+*{
+  font-family: sans-serif;
+}
+h1.FirstHeading{
+    
+  color:blue;
+}
+h1.secondheading{
+    color:red;
+    font-family: sans-serif;
+} 
+#paragraph {
+    color:pink;
+    font-size: 50px;
+}
+p{
+    color:green;
+    font-size: 30px;
+
+}
+ul {
+    list-style-type:disc;
+
+
+}
+ol {
+    list-style-type:lower-greek;  
+    
+}
+
+
